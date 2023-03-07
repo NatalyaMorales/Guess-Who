@@ -1,4 +1,4 @@
-package actividad8;
+package examen2;
 
 public class Estudiante1 extends Persona { 
     

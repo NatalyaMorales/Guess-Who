@@ -1,4 +1,4 @@
-package actividad8;
+package examen2;
 
 public abstract class Persona {
     private String nombre;
@@ -38,14 +38,5 @@ public abstract class Persona {
         return sabeManejar;
     }
 
-    /*public void recopilarDatos(String nombre, boolean esMexicano, boolean esMayor18, boolean viveMexico, boolean sabeManejar){
-        this.nombre = nombre;
-        this.esMexicano = esMexicano;
-        this.esMayor18 = esMayor18;
-        this.viveMexico = viveMexico;
-        this.sabeManejar = sabeManejar;
-
-        System.out.println(nombre+"\t"+esMexicano+"\t"+esMayor18+"\t"+viveMexico+"\t"+sabeManejar);
-    }*/
     
 }
